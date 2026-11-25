@@ -1,0 +1,6 @@
+# Ready-made overlay to enable the dsh-marimo plugin on any base-backed profile:
+#   dsh --profile web --patch ./node_modules/@apcamargo/dsh-marimo/cordis.patch.yml
+# or copy the row into your profile's patch layer.
+- insert:
+    - id: dsh-marimo
+      name: "@apcamargo/dsh-marimo"

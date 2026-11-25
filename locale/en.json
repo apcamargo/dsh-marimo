@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Marimo Pair",
+    "description": "Pair on a live marimo notebook: /marimo-pair connects and pairs the session, temporarily names it after the notebook, native tools run Python in the kernel, the pairing rules apply until /end-marimo-pair, and a composer button opens the notebook in the browser."
+  }
+}

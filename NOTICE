@@ -1,0 +1,11 @@
+dsh-marimo
+Copyright 2026 dsh-marimo contributors
+
+This product includes software developed as part of marimo-team/marimo-pair
+(https://github.com/marimo-team/marimo-pair), Copyright 2026 Marimo Team,
+licensed under the Apache License, Version 2.0.
+
+The skill instructions, reference documentation, and marimo interaction
+rules bundled in this plugin (lib/skill-content.js and parts of
+lib/prompts.js) are derived from that project's Agent Skill content and
+re-targeted from bundled bash scripts to native DeepSeek Harness tools.

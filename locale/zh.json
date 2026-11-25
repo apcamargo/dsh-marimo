@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Marimo 结对",
+    "description": "在运行中的 marimo 笔记本上结对：/marimo-pair 连接并配对当前会话，先以笔记本临时命名会话，原生工具在内核中运行 Python，结对规则持续生效直到 /end-marimo-pair，输入框下方的按钮可在浏览器中打开笔记本。"
+  }
+}
